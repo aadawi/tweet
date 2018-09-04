@@ -1,0 +1,6 @@
+twitter/data/twitterDemo/model/Tweet.class
+twitter/data/twitterDemo/model/TweetRequest.class
+twitter/data/twitterDemo/controller/TwitterController.class
+twitter/data/twitterDemo/model/User.class
+twitter/data/twitterDemo/model/Entities.class
+twitter/data/twitterDemo/TwitterDemoApplication.class
