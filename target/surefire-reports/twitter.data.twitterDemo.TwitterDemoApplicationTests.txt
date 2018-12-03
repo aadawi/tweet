@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: twitter.data.twitterDemo.TwitterDemoApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.836 s - in twitter.data.twitterDemo.TwitterDemoApplicationTests
